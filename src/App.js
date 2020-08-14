@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+//feature 1
 class App extends Component {
 	render() {
 		return (
