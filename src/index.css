@@ -130,3 +130,12 @@ footer {
 	background: #f0c040;
 	font-weight: bold;
 }
+
+/* Filter */
+.filter {
+	display: flex;
+	justify-content: space-between;
+	padding: 1rem;
+	margin: 1rem;
+	border-bottom: .1rem #c0c0c0 solid;
+}
