@@ -8,6 +8,7 @@ class App extends Component {
 
 		this.state = {
 			products: data.products,
+			cartItems: [],
 			size: '',
 			sort: ''
 		};
